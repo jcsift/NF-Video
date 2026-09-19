@@ -2,7 +2,7 @@
 
 # 银河录像局合租平台：流媒体、AI 服务价格与优惠码
 
-[完整详情与最新价格](https://eoht.net/serve/sharing/nf-video) · [账号合租与数字账号仓库汇总](https://github.com/gh-theo/sharing-summary)
+[完整详情与最新价格](https://eoht.net/serve/sharing/nf-video) · [账号合租与数字账号仓库汇总](https://github.com/jcsift/sharing-summary)
 
 ![银河录像局](https://i.eoht.net/docs/nf_video_og.webp '国内可靠的智能奈飞合租平台')
 
